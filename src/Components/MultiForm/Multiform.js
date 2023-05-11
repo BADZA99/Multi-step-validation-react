@@ -1,5 +1,5 @@
 import React,{useState} from 'react'
-import './Multiform.css'
+import './MultiForm.css'
 import Indicator from './Indicator/Indicator'
 import CardBegin from './Infos/CardBegin'
 import CardEnd from './Infos/CardEnd'
