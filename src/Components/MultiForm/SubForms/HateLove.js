@@ -22,7 +22,7 @@ export default function HateLove(props) {
                 }
             })
         }
-        else if (pref=="hate"){
+        else if (pref==="hate"){
             setFormData({
               prefs: {
                 // copie les elements de formdata
